@@ -28,6 +28,7 @@ public class Server {
         System.out.println("4");
         while((b = br.read()) != -1)
         System.out.print((char)b);
+        
       }
     }
 }}
